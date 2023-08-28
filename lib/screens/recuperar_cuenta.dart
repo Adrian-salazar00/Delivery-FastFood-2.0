@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:delivery_fast_food/pages/login_page.dart';
+import 'package:delivery_fast_food/screens/login_page.dart';
 
 class RecuperarCuenta extends StatefulWidget {
   const RecuperarCuenta({super.key});

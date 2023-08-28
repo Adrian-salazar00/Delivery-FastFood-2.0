@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:delivery_fast_food/pages/home_page.dart';
-import 'package:delivery_fast_food/pages/registro.dart';
-import 'package:delivery_fast_food/pages/recuperar_cuenta.dart';
+import 'package:delivery_fast_food/screens/home_page.dart';
+import 'package:delivery_fast_food/screens/registro.dart';
+import 'package:delivery_fast_food/screens/recuperar_cuenta.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
